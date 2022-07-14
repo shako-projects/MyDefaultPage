@@ -1,0 +1,49 @@
+.navbar {
+    min-height: 100px;
+}
+
+.footer {
+    text-align: left !important;
+}
+
+.navbar-toggler {
+    border-radius: 15%;
+}
+
+.navbar-toggler-icon {
+    padding-right: 40px;
+    height: 45px;
+}
+
+.navbar-img {
+    margin-right: auto;
+    margin-left: 1px;
+    margin-bottom: 15px;
+    object-fit: contain;
+    height: 70px;
+}
+
+.nav-item {
+    /* font-family: "Marker Felt"; */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    text-align: center;
+    font-family: "Marker Felt";
+    /* font-family: "Inter"; */
+    /* font-family: "Nunito"; */
+}
+
+.icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.text{
+    display: inline-block;
+    vertical-align: middle;
+}
